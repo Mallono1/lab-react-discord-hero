@@ -1,0 +1,62 @@
+.about{
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+.about-left{
+    flex-basis: 40%;
+    position: relative;
+}
+.about-right{
+    flex-basis: 40%;
+   
+}
+.about_img{
+  
+    
+    
+}
+
+.about h1{
+    
+    font-size: 60px;
+    color: #ffffff;
+}
+.about p{
+    font-size: 20px;
+    color: #ffffff;
+    display: flex;
+    max-width: 400px;
+}
+.about-btn{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 20px 0;
+    justify-content: space-between;
+}
+.about-btn2{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 20px 0;
+    justify-content: space-between;
+}
+    
+    div ul{
+        display: inline-block;
+        list-style: none;
+        margin: 5px 5px;
+       
+        
+    }
